@@ -1,6 +1,9 @@
 # Shell scripts
 *.sh
 
+# Data directories
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
