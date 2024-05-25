@@ -6,5 +6,6 @@
 - [X] EDA
 - [X] priprema i ciscenje podataka
 - [X] modeliranje
+- [X] evaluacija modela
 - [ ] deployment (gRPC i tf serving)
 - [ ] refaktoriranje/koristenje Pipeline klase za pripremu podataka
