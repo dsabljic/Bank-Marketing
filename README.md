@@ -7,3 +7,4 @@
 - [X] priprema i ciscenje podataka
 - [ ] modeliranje
 - [ ] deployment (gRPC i tf serving)
+- [ ] refaktoriranje/koristenje Pipeline klase za pripremu podataka
