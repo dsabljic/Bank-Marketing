@@ -5,6 +5,6 @@
 ## // todo
 - [X] EDA
 - [X] priprema i ciscenje podataka
-- [ ] modeliranje
+- [X] modeliranje
 - [ ] deployment (gRPC i tf serving)
 - [ ] refaktoriranje/koristenje Pipeline klase za pripremu podataka
