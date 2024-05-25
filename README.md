@@ -1,4 +1,6 @@
-# [Bank-Marketing](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/code?datasetId=4471&sortBy=voteCount)
+# Bank-Marketing
+
+[Kaggle dataset](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data)
 
 ## // todo
 - [X] EDA
